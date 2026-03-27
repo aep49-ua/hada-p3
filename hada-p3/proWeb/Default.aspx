@@ -3,7 +3,7 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
 
-<h1>Products managment</h1>
+<h2>Products managment</h2>
 <asp:Label ID="Label1" runat="server" Text="Code"></asp:Label>
 <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
 <br />
@@ -16,6 +16,7 @@
 <asp:TextBox ID="TextBox3" runat="server"></asp:TextBox>
 <br />
 
+    <asp:Label ID="Label6" runat="server" Text="Category"></asp:Label>
     <asp:DropDownList ID="DropDownList1" runat="server">
         <asp:ListItem Value="Computing"></asp:ListItem>
         <asp:ListItem Value="Telephony"></asp:ListItem>
