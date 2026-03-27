@@ -72,6 +72,7 @@
       <DependentUpon>Database.mdf</DependentUpon>
     </Content>
     <Content Include="Default.aspx" />
+    <Content Include="styles.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>

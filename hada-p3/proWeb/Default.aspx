@@ -15,6 +15,7 @@
 <asp:TextBox ID="TextBox3" runat="server"></asp:TextBox>
 <br />
 
+<asp:Label ID="Label6" runat="server" Text="Category"></asp:Label>
 <asp:DropDownList ID="DropDownList1" runat="server">
     <asp:ListItem Value="0">Computing</asp:ListItem>
     <asp:ListItem Value="1">Telephony</asp:ListItem>
